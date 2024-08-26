@@ -1,2 +1,2 @@
-# devops_camp_git project
+# DevOps_Camp_Git Project
 DevOps Camp Git Training
